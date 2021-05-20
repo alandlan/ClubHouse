@@ -1,7 +1,8 @@
 import Attendee from "./attendee.js"
 
-export default class Room{
-    constructor({id,topic,attendeesCount,speakersCount,featuredAttendees,owner,users}){
+export default class Room {
+    constructor({ id, topic, attendeesCount, speakersCount, featuredAttendees, owner, users }) {
+
         this.id = id
         this.topic = topic
         this.attendeesCount = attendeesCount

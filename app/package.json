@@ -1,5 +1,5 @@
 {
-  "name": "@erickwendel/clubhouse-app",
+  "name": "@alanmartins/clubhouse-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,6 +12,6 @@
     "http-server": "^0.12.3"
   },
   "keywords": [],
-  "author": "erickwendel",
+  "author": "alanmartins",
   "license": "ISC"
 }
